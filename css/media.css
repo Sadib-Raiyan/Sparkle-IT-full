@@ -1,0 +1,679 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*Header Start*/
+	.cf_d{
+		padding: 0 0;
+		padding-left: 9px;
+	}
+	.d_m {
+    top: 92%;
+    left: 41%;
+    }
+	/*Header End*/
+
+	/*Banner Start*/
+	.drp_t{
+		padding: 0 0;
+	}
+	.conf_p{
+		padding:0 0px;
+	}
+	.b_text{
+		margin-top: 71px;
+	}
+	.b_text h1 {
+    margin-bottom: 20px;
+    font-size: 18px;
+    word-spacing: 0px;
+    letter-spacing: 3px;
+	}
+	.b_text h3 {
+    margin-bottom: 34px;
+    letter-spacing: 3px;
+    word-spacing: 1px;
+ 	}
+ 	.btn_lm {
+ 	padding: 0 0;
+    width: 127px;
+    height: 39px;
+    font-size: 13px;
+    letter-spacing: 1px;
+	}
+
+	.arrow{
+	margin-top: 50px;
+	}
+	.arrow_logo{
+	width: 7%;
+	}
+	/*Banner End*/
+	/*Mountain Start*/
+	.c_mountain img {
+    margin-top: 34px;
+	}
+	.c_mountain p {
+		margin-top: 19px;
+		margin-bottom: 34px;
+		word-spacing: 0px;
+		letter-spacing: 1px;
+		padding: 0 17px;
+  	}
+	/*Mountain End*/
+	/*Card Start*/
+	.c_text img{
+	 margin-top: 0px;
+	 padding-top: 50px;
+	}
+	.c_text h1{
+	margin-bottom: 25px;
+	margin-top: 30px;
+	font-size: 20px;
+	font-weight: 400;
+	color: #292929;
+	word-spacing: 2px;
+	letter-spacing: 7px;
+	}
+	.c_text p{
+	margin-bottom: 24px;
+	padding: 0 16px;
+	}
+	.c_text img {
+		padding-top: 35px;
+	}
+	.card_logo{
+		margin-top: 20px !important;
+	}
+	.card_title{
+		padding-top: 0px;
+		word-spacing: 20px;
+	}
+	.card_p {
+		padding-top: 15px;
+		font-size: 16px;
+	}
+	/*Card end*/
+
+	/* Achievement Cards*/
+	.a_container {
+		padding: 31px 0;
+	}
+	.a_custom {
+		margin: 18px 0;
+	}
+	/* Achievement Cards*/
+
+	/*Portfolio Start*/
+	.p_logom{
+		width: 16%;
+	}
+	.p_t {
+		letter-spacing: 2px;
+	}
+	.p_t_custom{
+		text-align: center ;
+	}
+
+	/*Portfolio End*/
+
+	/*Slider Cards Start*/
+	.slider{
+		margin-top: 30px;
+	}
+	.c_md_ct{
+		margin: 5px 50px;
+		border-radius: 3px;
+		padding: 6px 0;
+	}
+	.c_i_cus{
+		padding: 0px 5px;
+	}
+	/*SLider Card End*/
+
+	/*SLider Button*/
+	.s_btn{
+		margin-top: 197px;
+		margin-bottom: 32px;
+		width: 180px;
+		height: 60px;
+	}
+	/*SLider Button*/
+
+	/*Footer Start*/
+	.footer {
+		padding-top: 10px;
+		padding-bottom: 30px;
+	}
+	.footer_logo {
+		margin: 8px 0;
+	}
+	.f_img{
+		margin: 16px 0;
+	}
+	.footer_last_p {
+		margin-top: 18px;
+	}
+	.footer ul p {
+		margin-top: 22px;
+	}
+	.footer ul li {
+		margin-bottom: 5px !important;
+	}
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*Header Start*/
+	.cf_d{
+		padding-right: 0px;
+		padding-left: 23px;
+	}
+	.d_m {
+    	top: 92%;
+		left: 62.3%;
+    }
+	/*Header End*/
+	/*Banner Start*/
+	.b_text{
+		margin-top: 60px;
+	}
+	.b_text h1 {
+    margin-bottom: 22px;
+    font-size: 20px;
+    word-spacing: 0px;
+    letter-spacing: 3px;
+	}
+	.b_h3{
+	letter-spacing: 2px;
+    word-spacing: 1px;
+	}
+	.btn_lm {
+    width: 141px;
+    height: 41px;
+    font-size: 13px;
+    letter-spacing: 2px;
+	}
+	.arrow{
+	margin-top: 50px;
+	}
+	.arrow_logo{
+	width: 6%;
+	}
+	/*Banner end*/
+	/*Mountain Start*/
+	.c_mountain img {
+    margin-top: 60px;
+	}
+	.c_mountain p {
+    margin-top: 50px;
+    margin-bottom: 68px;
+  	}
+	/*Mountain End*/
+	/*Card Start*/
+	.card_title{
+		word-spacing: 15px;
+	}
+	.c_text img {
+		padding-top: 60px;
+	}
+	.c_text {
+		margin-bottom: 57px;
+	}
+	.c_text p {
+		margin-bottom: 50px;
+		margin: 0 4px;
+	}
+	.card_p {
+	font-size: 16px;
+	}
+	   /*Card end*/
+
+	/*Ach Cards*/
+	.a_container {
+		padding: 30px 0;
+	}
+	.a_custom {
+		margin: 25px 0;
+	}
+	/*Ach cards*/
+
+	/*Portfolio Start*/
+	.p_logom{
+		width: 10%;
+	}
+	.p_t_custom{
+		text-align: center ;
+	}
+	/*Portfolio End*/
+
+	/*Slider Cards Start*/
+	.slider{
+		margin-top: 30px;
+	}
+	.c_md_ct{
+		margin: 18px 175px;
+		border-radius: 3px;
+		padding: 3px 0;
+	}
+	.c_i_cus{
+		padding: 0px 5px;
+	}
+	.c_md_ctp{
+		padding: 0 5px;
+	}
+	/*SLider Card End*/
+
+/*SLider Button*/
+	.s_btn{
+	margin-top: 187px;
+	margin-bottom: 0px;
+	width: 180px;
+	height: 60px;
+	}
+	/*SLider Button*/
+
+	/*Footer Start*/
+	.footer {
+		padding-top: 10px;
+		padding-bottom: 0px;
+	}
+	.footer_logo {
+		margin: 8px 0;
+	}
+	.footer_btn{
+		margin: 20px 190px;
+		width: 185px;
+	}
+
+	.f_img{
+		margin: 16px 0;
+	}
+	.footer_last_p {
+		margin-top: 18px;
+	}
+	.footer ul p {
+		margin-top: 22px;
+	}
+	.footer ul li {
+		margin-bottom: 5px !important;
+	}
+	.si img {
+		margin-top: -100px;
+		
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*Header Start*/
+	.d_m {
+    top: 92%;
+    left: 68.3%;
+    }
+	/*Header End*/
+
+	/*Banner Start*/
+	.b_text{
+		margin-top: 100px;
+	}
+	.b_text h1 {
+    margin-bottom: 25px;
+    font-size: 22px;
+    word-spacing: 37px;
+    letter-spacing: 9px;
+    line-height: 2;
+	}
+	.arrow{
+	margin-top: 90px;
+	}
+	.arrow_logo{
+	width: 4%;
+	}
+	/*Banner end*/
+	/*Mountain Start*/
+	.c_mountain img {
+    margin-top: 80px;
+	}
+	.c_mountain p {
+    margin-top: 50px;
+    margin-bottom: 80px;
+  	}
+	/*Mountain End*/
+
+	/*Card Start*/
+	.card_p {
+		font-size: 16px;
+	}
+
+	/*Card End*/
+
+	/*ACH Cards*/
+	.a_container {
+		padding: 50px 0;
+	}
+	.a_custom {
+		margin-top: 21px;
+	}
+	/*ACH Cards*/
+	
+	/*Portfolio Start*/
+	.p_logom{
+		width: 7%;
+	}
+	.p_t {
+		letter-spacing: 2px;
+	}
+	.p_t_custom{
+		text-align: center ;
+	}
+
+	/*Portfolio End*/
+	/*Our Video Starts*/
+	iframe {
+	width: 444px;
+	height: 315px;	 	
+	}               
+
+	/*Our video ends*/
+
+	/*Slider Cards Start*/
+	.c_md_ct{
+		margin: 5px 247px;
+		border-radius: 3px;
+		padding: 3px 0;
+	}
+	.c_i_cus {
+		padding: 0px 20px;
+	}
+	/*Slider Cards End*/
+
+	/*SLider Button*/
+	.s_btn{
+	margin-top: 186px;
+	margin-bottom: 83px;
+	}
+	/*SLider Button*/
+
+	/*Footer Start*/
+	.footer {
+		padding-top: 10px;
+		padding-bottom: 0px;
+	}
+	.footer_logo {
+		margin: 14px 0;
+	}
+	.footer ul li {
+		margin-bottom: 10px !important;
+	}
+		
+	.footer ul p {
+		margin-top: 24px;
+	}
+	.footer_last_p {
+		margin-top: 24px;
+	}
+	.footer_btn{
+		margin: 20px 245px;
+		margin-bottom: 9px;
+		width: 230px;
+	}
+	.si img{
+		margin-top: -79px;
+		padding: 0 10px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*Header Start*/
+	.d_m {
+    top: 92%;
+    left: 76.4%;
+    }
+	/*Header End*/
+	.c_mountain img {
+    margin-top: 80px;
+	}
+	.c_mountain p {
+    margin-top: 50px;
+    margin-bottom: 80px;
+  	}
+	/*Mountain End*/
+	/*Card Start*/
+	.card_title{
+		word-spacing: 10px;
+		letter-spacing: 2px;
+	}	
+	.c_text p {
+		margin-bottom: 60px;
+	}
+	.skill_container li {
+		letter-spacing: 1px;
+	}
+	/*Card End*/
+
+	/*Slider Card Start*/
+	.c_i_cus{
+		padding: 19px 5px;
+	}
+	.c_md_ct{
+		margin: 4px 0px;
+		border-radius: 3px;
+		padding: 3px 0;
+	}
+	/*Slider Card End*/
+	/*Slider Button*/
+	.s_btn {
+		margin: 80px 0;
+		margin-bottom: 70px;
+	}
+	/*Team Cards*/
+	.t_cards {
+		margin-bottom: 0px;
+	}
+	/*Team Cards End*/
+	/*Slider Button*/
+
+	/*Position Start*/
+	.position {
+		margin-bottom: 0px;
+	}
+	.ps_black {
+    margin-top: 101px !important;
+    padding-top: 20px;
+    padding-bottom: 20;
+    padding-left: 55px;
+	padding-right: 45px;
+	line-height: 20px;
+	}
+	.ps_black2 {
+		margin-top: -174px;
+	}
+	.p_seo {
+		margin-top: 109px;
+	}
+	.p_seo2 {
+		margin-top: 21px;
+	}
+	/*Position end*/
+
+	/*Footer Start*/
+	.footer {
+		padding: 20px 0;
+	}
+	/*Footer End*/
+
+ }
+
+ /*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+  	/*Header Start*/
+	.d_m {
+    top: 92%;
+    left: 80.2%;
+    }
+	/*Header End*/
+
+	/*Card Start*/
+	
+	.card_title {
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1b1b1b;
+    line-height: 32px;
+    word-spacing: 20px;
+	letter-spacing: 6px;
+	}
+	/*Card End*/
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1699.98px) {
+	/*Slider Start*/ 
+	.c_i_cus {
+		margin-top: 32px;
+	}
+	/*Slider End*/
+	/*Team Cards Starts*/
+	.t_cards {
+		margin-bottom: 117px;
+	}
+	/*Team Cards End*/ 
+	/*Position Start*/
+	.position {
+		margin-bottom: 130px;
+	}
+	.ps_black {
+		width: 648px;
+		height: 432px;
+		margin-top: -32px !important;
+		padding-top: 53px;
+		padding-bottom: 45px;
+		padding-left: 63px;
+		padding-right: 54px;
+		font-family: 'Raleway', sans-serif;
+		font-size: 15px;
+		font-weight: 400;
+		color: #fff;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		line-height: 28px;
+	}
+	/*Position End*/
+    
+ }
+
+ /*Extra Extra Extra large devices (large desktops, 1700px and up)*/
+ @media (min-width: 1700px) and (max-width: 1899.98px) { 
+	/*Slider Start*/ 
+	.c_i_cus {
+		margin-top: 76px;
+	}
+	/*Slider End*/
+	/*Team Cards Starts*/
+	.t_cards {
+		margin-bottom: 117px;
+	}
+	/*Team Cards End*/ 
+	/*Position Start*/
+	.position {
+		margin-bottom: 130px;
+	}
+	.ps_black {
+		width: 648px;
+		height: 432px;
+		margin-top: -32px !important;
+		padding-top: 53px;
+		padding-bottom: 45px;
+		padding-left: 63px;
+		padding-right: 54px;
+		font-family: 'Raleway', sans-serif;
+		font-size: 15px;
+		font-weight: 400;
+		color: #fff;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		line-height: 28px;
+	}
+	/*Position End*/
+    
+ }
+ /*Extra Extra Extra large max devices (large desktops, 1900px and up)*/
+ @media (min-width: 1900px) and (max-width: 2099.98px) { 
+	/*Slider Start*/ 
+	.c_md_ctp{
+		padding: 12px 5px !important;
+		font-size: 18px !important;
+	}
+	.c_i_cus {
+		margin-top: 88px;
+	}
+		/*Slider End*/
+	/*Team Cards Starts*/
+	.t_cards {
+		margin-bottom: 117px;
+	}
+	/*Team Cards End*/ 
+	/*Position Start*/
+	.position {
+		margin-bottom: 130px;
+	}
+	.ps_black {
+		width: 648px;
+		height: 432px;
+		margin-top: -32px !important;
+		padding-top: 53px;
+		padding-bottom: 45px;
+		padding-left: 63px;
+		padding-right: 54px;
+		font-family: 'Raleway', sans-serif;
+		font-size: 15px;
+		font-weight: 400;
+		color: #fff;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		line-height: 28px;
+	}
+	/*Position End*/
+    
+ }
+/*Extra Extra Extra large max pro devices (large desktops, 2100px and up)*/
+@media (min-width: 2100px) { 
+	/*Slider Start*/ 
+	.c_md_ctp{
+		padding: 30px 5px !important;
+		font-size: 20px;
+	}
+	.c_i_cus {
+		margin-top: 88px;
+	}
+		/*Slider End*/
+		/*Team Cards Starts*/
+		.t_cards {
+			margin-bottom: 117px;
+		}
+		/*Team Cards End*/ 
+		/*Position Start*/
+		.position {
+			margin-bottom: 130px;
+		}
+		.ps_black {
+			width: 648px;
+			height: 432px;
+			margin-top: -32px !important;
+			padding-top: 53px;
+			padding-bottom: 45px;
+			padding-left: 63px;
+			padding-right: 54px;
+			font-family: 'Raleway', sans-serif;
+			font-size: 15px;
+			font-weight: 400;
+			color: #fff;
+			letter-spacing: 1px;
+			word-spacing: 1px;
+			line-height: 28px;
+		}
+		/*Position End*/
+    
+}
